@@ -1,5 +1,5 @@
 {
-  "name": "jeancx/sellercenter-sdk-php",
+  "name": "jeancx/seller-center-sdk-php",
   "description": "SellerCenter SDK for PHP",
   "license": "MIT",
   "require": {
